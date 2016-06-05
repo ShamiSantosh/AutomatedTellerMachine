@@ -1,0 +1,39 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+.btn-primary {
+    background-color: #6e1441 !important;
+    border-color: #6e1441 !important;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #765170 !important;
+  border-color: #765170 !important;
+  background-position: 0 -15px;
+}
+.text{
+    color: #6e1441 !important;
+    text-align:center;
+    font-size: 50px;
+}
+.bodybackground{
+    background-color:antiquewhite;
+}
